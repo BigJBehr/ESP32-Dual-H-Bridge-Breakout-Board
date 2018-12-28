@@ -20,10 +20,10 @@ The board was created using Kicad Ver 4.0.7.
 
 ## The files
 ESP32_Robot_Bd.zip - This is all of the files needed to have the board fabricated. Send this file to your board manufacturer.
-ESP32_Robot_Bd.kicad.pcb   - This is the kicad pcb file
-ESP32_Robot_Bd.net         - This is the kicad generated net file for the pcb
-ESP32_Robot_Bd.pdf         - This is a pdf version of the schematic
-ESP32_Robot_Bd.pro         - This is the kicad project
-ESP32_Robot_Bd.sch         - This is the kicad schematic
+ESP32_Robot_Bd.kicad.pcb   - This is the kicad pcb file.
+ESP32_Robot_Bd.net         - This is the kicad generated net file for the pcb.
+ESP32_Robot_Bd.pdf         - This is a pdf version of the schematic.
+ESP32_Robot_Bd.pro         - This is the kicad project.
+ESP32_Robot_Bd.sch         - This is the kicad schematic.
 ESP32_Robot_Bd-cache.lib   - This is the cached library. It has any custom library parts.
 
